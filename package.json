@@ -1,0 +1,36 @@
+{
+  "name": "next-student-feedback",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@azure/msal-browser": "^2.36.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@popperjs/core": "^2.11.7",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "firebase": "^9.20.0",
+    "framer-motion": "^10.12.2",
+    "next": "13.3.0",
+    "papaparse": "^5.4.1",
+    "postcss": "8.4.21",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "redux-persist": "^6.0.0",
+    "redux-saga": "^1.2.3",
+    "reselect": "^4.1.8",
+    "tailwindcss": "3.3.1"
+  }
+}
